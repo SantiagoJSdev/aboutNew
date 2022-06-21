@@ -62,7 +62,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 11px;
+  margin-top: 20px;
   background: #f4decb;
 }
 
@@ -289,6 +289,12 @@ body {
 .right__container--academica>p>span>a>i {
   font-size: calc(0.8em + 0.8vw);
 }
+.PDF {
+  background: red;
+  border-radius: 5px;
+  color: #fff;
+}
+ 
 
 @media screen and (max-width:1270px) {
   .home__container {
